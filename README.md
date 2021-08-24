@@ -34,9 +34,3 @@ Dexter Valencia
 ## License
 
 This project is licensed under the MIT License 
-
-## Acknowledgments
-
-* Thanks to Kerwin and Mahisha for helpful hints!  
-
-
